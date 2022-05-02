@@ -1,0 +1,34 @@
+.banner-card {
+    width: 100vw;
+    /* margin-top: 2vh; */
+    margin-bottom: 3vh;
+    position: relative;
+    height: 70vh;
+}
+
+.nvbr {
+    color: rgba(255, 227, 11, 0.566);
+    background-color: black;
+}
+
+.banner-img {
+    height: 55vh;
+    width: 100%;
+}
+
+.banner-title {
+    font-size: 55px;
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+    color: rgba(255, 227, 11, 0.566);
+}
+
+.banner-text {
+    position: absolute;
+    font-size: 25px;
+    color: silver;
+    top: 15vh;
+    height: 4.5rem;
+    margin-left: 5vw;
+}
